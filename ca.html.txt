@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>ICAI Announcement</title>
+  <style>
+    body { font-family: Arial, sans-serif; margin:0; background:#f5f5f5; }
+    header { background:#002147; color:white; padding:20px; text-align:center; display:flex; align-items:center; justify-content:center; gap:15px; }
+    header img { height:50px; }
+    .container { max-width:900px; margin:20px auto; background:white; padding:20px; border-radius:10px; }
+    h1 { color:#002147; }
+    .date { color:gray; font-size:14px; }
+    footer { text-align:center; padding:20px; color:gray; }
+  </style>
+</head>
+<body>
+
+<header>
+  <img src="logo.png" alt="ICAI Logo">
+  <h2>ICAI Official Updates</h2>
+</header>
+
+<div class="container">
+  <h1>CA Foundation May 2026 Exam Postponed</h1>
+  <p class="date">Published on April 2026</p>
+
+  <p>The Institute of Chartered Accountants of India (ICAI) has officially announced that the CA Foundation examination has been postponed.</p>
+
+  <h3>New Exam Schedule</h3>
+  <p>The examination will now be conducted in May 2026.</p>
+
+  <h3>Important Notice</h3>
+  <p>All previously issued admit cards stand cancelled. Fresh admit cards will be issued for the revised schedule.</p>
+
+  <h3>What Students Should Do</h3>
+  <ul>
+    <li>Keep checking the official ICAI website</li>
+    <li>Continue preparation</li>
+    <li>Download new admit cards once released</li>
+  </ul>
+</div>
+
+<footer>
+  <p>© 2026 ICAI Updates Blog</p>
+</footer>
+
+</body>
+</html>
